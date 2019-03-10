@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AC-TwitterClone</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">39UWiqsEWDWGlkWuLoxbEHNuqJSQ1odrsImxVzy0</string>
+    <string name="back4app_client_key">5OejqfO41tlxzk80BqYynsi5PHGnct1GAyrV5Np5</string>
+    <string name="send_a_tweet">Send a Tweet..</string>
+    <string name="view_other_user_s_tweets">View Other User\'s Tweets</string>
+    <string name="send_tweet">Send Tweet</string>
+    <string name="todo">TODO</string>
+    <string name="please_enter_an_email">Please enter an email...</string>
+    <string name="please_enter_a_password">Please enter a password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="please_enter_a_email">Please enter an Email</string>
+
+</resources>
